@@ -1,8 +1,0 @@
-streamlit>=1.36
-streamlit-image-coordinates>=0.1.9
-pydicom>=2.4
-numpy>=1.24
-soundfile>=0.12
-pillow>=10.0
-pylibjpeg>=2.0
-pylibjpeg-libjpeg>=2.1
