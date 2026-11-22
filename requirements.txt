@@ -1,0 +1,10 @@
+numpy
+pydicom
+pylibjpeg
+pylibjpeg-libjpeg
+pylibjpeg-openjpeg
+sounddevice
+soundfile>=0.12
+pyinstaller
+gTTS
+pyttsx3
